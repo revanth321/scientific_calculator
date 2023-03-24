@@ -1,0 +1,18 @@
+24/03/2023:22:54:45 997 [calculator.java] [INFO] calculator Calculating Square Root of : 2.0
+ Result : 1.4142135623730951
+24/03/2023:22:54:54 274 [calculator.java] [INFO] calculator Calculating Natural Logarithm of : 34.0
+ Result : 3.5263605246161616
+24/03/2023:23:01:32 914 [calculator.java] [INFO] calculator Calculating Natural Logarithm of : 32.0
+ Result : 3.4657359027997265
+24/03/2023:23:01:42 940 [calculator.java] [INFO] calculator Power : 233.0^2.0/n Result : 54289.0
+24/03/2023:23:02:43 051 [calculator.java] [INFO] calculator Calculating Square Root of : 2.0
+ Result : 1.4142135623730951
+24/03/2023:23:02:45 055 [calculator.java] [INFO] calculator Calculating Square Root of : 2.0
+ Result : 1.4142135623730951
+24/03/2023:23:02:46 622 [calculator.java] [INFO] calculator Calculating Square Root of : 2.0
+ Result : 1.4142135623730951
+24/03/2023:23:02:54 841 [calculator.java] [INFO] calculator Calculating Natural Logarithm of : 32.0
+ Result : 3.4657359027997265
+24/03/2023:23:02:57 578 [calculator.java] [INFO] calculator Calculating Natural Logarithm of : 233.0
+ Result : 5.4510384535657
+24/03/2023:23:03:05 462 [calculator.java] [INFO] calculator Power : 234.0^33.0/n Result : 1.5279997899370761E78
